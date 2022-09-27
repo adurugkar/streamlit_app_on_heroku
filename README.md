@@ -46,7 +46,7 @@ Create a Python VirtualEnv
 
 ------------------------------------------------------
 - Run 
-* heroku run bash -a app_name
+> heroku run bash -a app_name 
 
 - Stop
 - heroku ps:scale web=0 -a app_name
